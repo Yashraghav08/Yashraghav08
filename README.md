@@ -4,7 +4,7 @@ Hi 👋 My name is Yash Raghav
 DevOps Engineer
 ---------------
 
-I am a B.Tech graduate who currently working as DevOps Engineer
+I am a B.Tech graduate who currently working as a DevOps Engineer
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [raghav.yash800@gmail.com](mailto:raghav.yash800@gmail.com)
